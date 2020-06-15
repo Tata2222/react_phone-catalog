@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aa3e417ad1dd59a43961255b9def8a5",
+    "revision": "604500a1cb07339ba88142cb311b5d62",
     "url": "./index.html"
   },
   {
-    "revision": "843f60f7900ab3df9b71",
-    "url": "./static/css/main.f75eca20.chunk.css"
+    "revision": "6e37e276d9c7090304ef",
+    "url": "./static/css/main.674b5199.chunk.css"
   },
   {
     "revision": "4b7e91be6baaccdbf2d4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.72cf90d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "843f60f7900ab3df9b71",
+    "revision": "6e37e276d9c7090304ef",
     "url": "./static/js/main.eb45eab5.chunk.js"
   },
   {
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31fcd73a761b439cf0e1a9f7462de22a",
     "url": "./static/media/Mont-Regular.31fcd73a.woff"
+  },
+  {
+    "revision": "8833c4294321c6960040515046d2cadc",
+    "url": "./static/media/arrow-down.8833c429.svg"
   },
   {
     "revision": "72b4e57da39ad335c2539f258c5c5306",
