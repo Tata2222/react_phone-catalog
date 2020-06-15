@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "448002ce3e8e32eb5f00cc91894d9adc",
+    "revision": "a05d85353ce23e8735f938effa052091",
     "url": "./index.html"
   },
   {
-    "revision": "847a71707f05779116d9",
-    "url": "./static/css/main.6aaa7132.chunk.css"
+    "revision": "54db1571932552c1a7d9",
+    "url": "./static/css/main.67495c51.chunk.css"
   },
   {
     "revision": "4b7e91be6baaccdbf2d4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.72cf90d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "847a71707f05779116d9",
+    "revision": "54db1571932552c1a7d9",
     "url": "./static/js/main.eb45eab5.chunk.js"
   },
   {
@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Mont-Regular.31fcd73a.woff"
   },
   {
+    "revision": "cea85a7bae053795ef0901513d041398",
+    "url": "./static/media/accessories.cea85a7b.jpg"
+  },
+  {
     "revision": "8833c4294321c6960040515046d2cadc",
     "url": "./static/media/arrow-down.8833c429.svg"
   },
@@ -42,5 +46,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c04f58ba855a95a0fea25837001a3e4e",
     "url": "./static/media/arrow-right.c04f58ba.svg"
+  },
+  {
+    "revision": "f952b32750c078ea88834b91689ba1e9",
+    "url": "./static/media/phones.f952b327.jpg"
+  },
+  {
+    "revision": "7c43b4779262715a51108402fa6ed0dc",
+    "url": "./static/media/tablets.7c43b477.jpg"
   }
 ]);
